@@ -8,7 +8,7 @@
 
 <h2>📺 Certificaitons </h2>
 
-- [add a link to cert and picture or sum ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [add a link to cert and picture or sum ](https://imgur.com/cVlZNer)
 
 <h2> 🤳 Connect with me:</h2>
 
