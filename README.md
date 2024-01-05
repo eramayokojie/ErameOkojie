@@ -8,7 +8,7 @@
 
 <h2>📺 Certificaitons </h2>
 
-- [add a link to cert and picture or sum ](https://imgur.com/cVlZNer)
+- [CompTIA Security+](https://imgur.com/cVlZNer)
 
 <h2> 🤳 Connect with me:</h2>
 
