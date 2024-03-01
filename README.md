@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/eramayokojie/ActiveDirectory_Create_Random_User)
-  - [SIEM-Lab]([https://github.com/eramayokojie/SIEM-Lab)
+  - [SIEM-Lab](https://github.com/eramayokojie/SIEM-Lab)
 
 <h2>📺 Certificaitons </h2>
 
