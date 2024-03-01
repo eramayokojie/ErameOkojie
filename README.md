@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/previewurl)
-  - [Hello World](https://github.com/joshmadakor1/previewurl)
+  - [Active Directory Home Lab](https://github.com/eramayokojie/ActiveDirectory_Create_Random_User)
+  - [SIEM-Lab]([https://github.com/eramayokojie/SIEM-Lab)
 
 <h2>📺 Certificaitons </h2>
 
